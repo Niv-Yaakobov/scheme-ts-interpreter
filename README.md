@@ -1,6 +1,6 @@
 # Scheme Interpreter in TypeScript
 
-This is a Scheme interpreter implemented from scratch using TypeScript. It was developed as a final project for the **Principles of Programming Languages (PPL)** course at university. The goal was to explore interpreter design, lexical scoping, recursion, and functional programming principles.
+This is a Scheme interpreter implemented using TypeScript. It was developed as a final project for the **Principles of Programming Languages (PPL)** course at university. The goal was to explore interpreter design, lexical scoping, recursion, and functional programming principles.
 
 ## 🎯 Project Objective
 
